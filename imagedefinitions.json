@@ -1,0 +1,6 @@
+[
+    {
+      "name": "stav-hello-world-service",
+      "imageUri": "753392824297.dkr.ecr.us-east-1.amazonaws.com/stav-hello-world:1.0.19"
+    }
+  ]
